@@ -36,8 +36,8 @@ body_usermin=Versión Usermin
 body_virt=Memoria virtual
 body_webmin=Versión Webmin
 
-left_favorites=Favorites
-left_favorites_no=There were no favorites added yet...
+left_favorites=Favoritos
+left_favorites_no=Aún no se agregaron favoritos...
 left_feedback=Envía Feedback
 left_home=Información del sistema
 left_others=Otros
@@ -95,16 +95,16 @@ session_twofailed=Autenticación de dos factores fallada: $1
 
 
 
-settings_right_options=Options
-settings_right_restore_defaults=Restore defaults
-settings_right_restored=Restored
-settings_right_restoring=Restoring
-settings_right_saved=Saved
-settings_right_saving=Saving
+settings_right_options=Opciones
+settings_right_restore_defaults=Restaurar valores por defecto
+settings_right_restored=Restaurado
+settings_right_restoring=Restauración
+settings_right_saved=Guardado
+settings_right_saving=Salvaguarda
 
-settings_right_theme_extensions=Theme extensions
-settings_right_theme_extensions_title=Theme Extensions
-settings_right_file_edit=Edit extension file:
+settings_right_theme_extensions=Extensiones del tema
+settings_right_theme_extensions_title=Título de la extensiones del tema
+settings_right_file_edit=Editar fichero de extensiones:
 settings_right_extensions_title=Theme extensive design, enables you easily manipulate on targeted parts of the interface. It's possible to access both <em>CSS</em> and <em>JavaScript</em>, by writing custom <em>styles</em>/<em>scripts</em> extensions. Following are the plain examples, made to help you understand the basic idea of its application. For example, in order to change the color of the background, add the following style to CSS extension: <code>body {background-color: Gainsboro}</code>. Using JavaScript, to change submit button's width, add the following code to JavaScript extension: <code>$('button[type="submit"]').animate({width: "100%"}, 1000)</code>. However, in practice, it will be more complicated than that.
 
 settings_right_theme_logos=Theme logos
